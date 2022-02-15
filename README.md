@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python, SQL and I'm really looking forward to applying them in new projects.
 
-📫 How to reach me: frannmm419@gmail.com.
+📫 How to reach me: frannmm419@gmail.com
 
 
 
